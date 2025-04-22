@@ -15,11 +15,11 @@ The starter notebook contains a snippet of code on how to download the dataset u
 The assignment is to run an experiment where you try a simple MLP network and a CNN to determine which network yields the best result in terms of the classification accuracy metric. I will be looking for the following:
 
 - In a mark-down cell near the top of your notebook, give a brief explanation of your problem.  
-- Build an **MLP** that has this structure (the exact number of parameters is given in the starter notebook as suggestions):
+- Build an **MLP** that has this structure (the exact number of parameters is given in [the starter notebook](https://github.com/alimoorreza/CS167-SP25-Notebook-5/blob/main/Notebook5_part1_starter.ipynb) as suggestions):
   - One input layer 
   - Three hidden layers
   - One output layer
-- Build a **CNN** that has this structure (the exact number of parameters is given in the starter notebook as suggestions):
+- Build a **CNN** that has this structure (the exact number of parameters is given in [the starter notebook](https://github.com/alimoorreza/CS167-SP25-Notebook-5/blob/main/Notebook5_part2_starter.ipynb) as suggestions):
   - Conv layer 1
   - Conv layer 2
   - Flatten layer
